@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/brade/Documents/GitHub/lumberyard group project/Untitled/Content/StarterContent/Architecture/Wall_Door_400x400.uasset",
+				"/Users/brade/Documents/GitHub/lumberyard group project/Untitled/Content/enemyWorkHannah/enemystuff.umap",
+				"/Users/brade/Documents/Game201/Lumberyard-main/Content/enemyWorkHannah/ENEMY1.uasset",
+				"/Users/brade/Documents/Game201/Lumberyard-main/Content/enemyWorkHannah/BP_Enemy_AI.uasset",
+				"/Users/brade/Documents/Game201/Lumberyard-main/Content/Maps/CharacterMap.umap",
+				"C:/Users/GGPC/Documents/Lumberyard/Content/CharacterWork/NewMap.umap",
+				"C:/Users/GGPC/Documents/Lumberyard/Content/CharacterWork/TopCharacter.uasset",
+				"C:/Users/joshk/Documents/GitHub/Lumberyard/Content/DestroyableBlocks/HPTest.uasset",
+				"C:/Users/joshk/Documents/GitHub/Lumberyard/Content/CharacterWork/TopCharacter.uasset",
+				"C:/Users/joshk/Documents/GitHub/Lumberyard/Content/CharacterWork/NewMap.umap",
+				"C:/Users/joshk/Documents/GitHub/Lumberyard/Content/DestroyableBlocks/Destroyable.uasset",
+				"C:/Users/joshk/Documents/GitHub/Lumberyard/Content/CharacterWork/PlayerStats.uasset",
+				"C:/Users/joshk/Documents/GitHub/Lumberyard/Content/CharacterBuffs/Decisions.uasset",
+				"C:/Users/joshk/Documents/GitHub/Lumberyard/Content/CharacterBuffs/DecisionsMenu.uasset",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/NewMap.umap",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/CharacterWork/CharacterController.uasset",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/CharacterWork/NewMap.umap",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/CharacterWork/TopDownGameMode.uasset",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/CharacterWork/TopCharacter.uasset",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/DestroyableBlocks/Destroyable.uasset",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/DestroyableBlocks/Enemy.uasset",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/Maps/CharacterMap.umap",
+				"/Users/brade/Documents/GitHub/lumberyard group project/Untitled/Content/NewFolder/enemy.umap",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/Character.uasset",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/CharacterController.uasset",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/GameMode.uasset",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/CharacterWork/Character.uasset",
+				"C:/Users/bennetthom1/Lumberyard/Lumberyard/Content/CharacterWork/GameMode.uasset"
+			]
+		}
+	]
+}
